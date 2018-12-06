@@ -1,1 +1,2 @@
-Django~=2.0.6
+Django~=2.0.9  
+django-jet~=1.0.8
